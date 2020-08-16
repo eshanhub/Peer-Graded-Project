@@ -1,4 +1,4 @@
-<a href="https://github.com/lizthree/exploratory-analysis-course-project-2">Link to Github Repo</a>
+<a href="https://github.com/eshanhub/Peer-Graded-Project">Link to Github Repo</a>
 
 ## Introduction
 
